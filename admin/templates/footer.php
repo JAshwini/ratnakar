@@ -1,6 +1,3 @@
-</div>
-    <!-- /#wrapper -->
-
     <!-- jQuery -->
     <script src="<?php echo $dir; ?>vendor/jquery/jquery.min.js"></script>
 
@@ -19,3 +16,4 @@
     <script src="<?php echo $dir; ?>dist/js/sb-admin-2.js"></script>
 
 </body>
+</html>
